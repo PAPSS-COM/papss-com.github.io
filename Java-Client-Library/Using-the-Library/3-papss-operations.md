@@ -1,4 +1,5 @@
 ---
+label: Operations
 order: 100
 icon: note
 tags: [guide]

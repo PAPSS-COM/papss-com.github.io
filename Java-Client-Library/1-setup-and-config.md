@@ -6,30 +6,14 @@ tags: [guide]
 
 # Setup and Configuration
 
-## RTP Client Library Configuration
 ---
 
-## RTP Message Class
+## Setup Steps using SpringBoot App
+
 ---
 
-## EngineConnection Interface
+## Configuration
+
 ---
-### SendNewMessage
 
-### ReplyToPayment
 
-### GetMessage
-
-### ConfirmMessage
-
-### GetPositions
-
-### GetIndirectPositions
-
-### GetParticipantStatus
-
-### GetAllParticipantStatus
-
-### GetEscrowTransactions
-
-### GetFXRate
