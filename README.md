@@ -13,28 +13,38 @@ icon: home
 #### Certification
 #### and Support
 
-## Introduction
-PAPSS offers 2 forms of integration:
-1. Through Java Client Library
-2. Through REST API Gateway that is deployed on the participant's environment.
+---
+PAPSS (Pan-African Payment And Settlement System) - is a cross-border, financial market infrastructure enabling payment transactions across Africa.
 
-Operations that can be performed to the PAPSS System by Participants are as follows
+With PAPSS APIs, you can make instant and secure cross boarder payments in local currencies across Africa.
 
-- Credit Transfer (pacs.008.001)
-- Credit Transfer Return (pacs.004)
-- Recall Message (camt.056.007)
-- Negative Answer to recall (camt.029.001)
-- Request to Pay (pain.013.001)
-- Request to Pay response (pain.014.001)
-- Investigation (pacs.028.001)
-- Identification modification Advice (acmt.022.001)
-- Identification verification Request (acmt.023.001)
-- Identification verification Report (acmt.024.001)
-- Modification message (camt.007.002)
-- Net Position information (position.001.xsd)
-- Settlement message (rcon.001.xsd)
-- Participant Status
-- GetEscrow Transaction
-- GetFXRate.
+## New to PAPSS?
+
+To use these APIs, you will need to be an PAPSS customer and participant. If you are new to PAPSS and interested in becoming a client, contact us at info@papss.com to learn more.
+
+## API Overview
+
+PAPSS provides different APIs for different use-cases. PAPSS has 2 forms of API integration. To get an overview of all the APIs that PAPSS provides, check out the Overview section of each API below.
+
++++ Java Client Library
+
+Java Client Library is a SDK that offers classes, interfaces and methods to integrate to the PAPSS System from a Java Application
+
+[!button text="Get Started with Java Client Library Here --->" variant="ghost"](/Java-Client-Library/0-introduction.md)
+
++++ REST API Gateway
+
+The REST API Gateway offers endpoints to enable integration to the PAPSS System using Json Objects. There are different endpoints for the different operations that can be performed in PAPSS.
+
+[!button text="Get Started with REST API Gateway Here --->" variant="ghost"](/Rest-API-Gateway/restapi.md)
+
++++
+
+## Help me Choose
+
+Do you still need help choosing the best API for your use case? Get in touch with us support@papss.com.
+
+
+
 
 
